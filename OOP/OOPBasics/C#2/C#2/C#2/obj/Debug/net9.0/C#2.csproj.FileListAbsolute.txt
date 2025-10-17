@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\bin\Debug\net9.0\C#2.exe
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\bin\Debug\net9.0\C#2.deps.json
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\bin\Debug\net9.0\C#2.runtimeconfig.json
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\bin\Debug\net9.0\C#2.dll
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\bin\Debug\net9.0\C#2.pdb
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.dll
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\refint\C#2.dll
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.pdb
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\C#2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\INSTANT\C#2\C#2\obj\Debug\net9.0\ref\C#2.dll

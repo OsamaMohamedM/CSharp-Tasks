@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\dell\\source\\repos\\instant\\librarysystem\\librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D53589-285E-4480-A88A-B234C12BB7A6}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Library.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Library.cs",
+              "RelativeToolTip": "LibrarySystem\\Library.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:18:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Librarian.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Librarian.cs",
+              "RelativeToolTip": "LibrarySystem\\Librarian.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:18:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\User.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\User.cs",
+              "RelativeToolTip": "LibrarySystem\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:17:47.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Loan.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Loan.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Loan.cs",
+              "RelativeToolTip": "LibrarySystem\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:17:10.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\LibraryCard.cs",
+              "RelativeToolTip": "LibrarySystem\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:16:28.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Book.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Book.cs",
+              "RelativeToolTip": "LibrarySystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:15:17.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\INSTANT\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "LibrarySystem\\Program.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:10:28.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
