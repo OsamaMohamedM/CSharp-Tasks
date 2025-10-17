@@ -2,7 +2,7 @@
 
 This directory contains projects and assignments related to Object-Oriented Programming in C#.
 
-## Contents
+## Projects
 
-- **[C#2](./C#2/):** A project demonstrating various OOP concepts.
-- **Assignment_02C#.pdf:** The assignment details for the OOP projects.
+- **[LibrarySystem](./LibrarySystem/):** A console application that demonstrates a library management system, showcasing core OOP principles.
+- **[OOPBasics](./OOPBasics/):** A collection of smaller projects and assignments covering fundamental OOP concepts in C#.
