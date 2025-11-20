@@ -1,0 +1,15 @@
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\bin\Debug\net9.0\Employee_Managment_System.exe
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\bin\Debug\net9.0\Employee_Managment_System.deps.json
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\bin\Debug\net9.0\Employee_Managment_System.runtimeconfig.json
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\bin\Debug\net9.0\Employee_Managment_System.dll
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\bin\Debug\net9.0\Employee_Managment_System.pdb
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.AssemblyInfoInputs.cache
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.AssemblyInfo.cs
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.sourcelink.json
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.dll
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\refint\Employee_Managment_System.dll
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.pdb
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\Employee_Managment_System.genruntimeconfig.cache
+C:\Users\DELL\GitHubRepo\CSharp-Tasks\Genrics_Enum_List\Employee ManagmentSystem\Employee_Managment_System\Employee_Managment_System\obj\Debug\net9.0\ref\Employee_Managment_System.dll
